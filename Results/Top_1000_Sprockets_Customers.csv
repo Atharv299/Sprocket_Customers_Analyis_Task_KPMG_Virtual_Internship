@@ -1,0 +1,1001 @@
+customer_id,first_name,Age,gender,job_industry_category,wealth_segment,state,past_3_years_bike_related_purchases,Profit
+941,Tye,28,Male,Financial Services,Affluent Customer,Queensland,13,11668.949999999999
+2637,Marcile,51,Female,Retail,Mass Customer,New South Wales,28,11222.65
+1460,Morley,50,Male,Financial Services,High Net Worth,New South Wales,92,10787.599999999999
+1558,Oberon,32,Male,Financial Services,Affluent Customer,New South Wales,14,10640.3
+729,Ammamaria,50,Female,Health,Affluent Customer,Victoria,30,10497.779999999999
+3326,Wes,48,Male,Manufacturing,High Net Worth,New South Wales,83,10422.04
+322,De,46,Female,Financial Services,Mass Customer,Queensland,19,10341.57
+2770,Olvan,46,Male,Manufacturing,High Net Worth,New South Wales,24,10028.8
+1597,Jeffry,46,Male,Retail,Affluent Customer,New South Wales,93,9739.460000000001
+1887,Kynthia,58,Female,IT,Affluent Customer,Victoria,22,9695.59
+2762,Rozamond,31,Female,Manufacturing,Mass Customer,Victoria,34,9679.123048779069
+195,Talyah,65,Female,Manufacturing,Mass Customer,Victoria,34,9633.41
+363,Sabrina,35,Female,Retail,Mass Customer,New South Wales,82,9458.17
+1482,Georas,44,Male,Manufacturing,Mass Customer,New South Wales,29,9269.16
+936,Raffaello,35,Male,Health,High Net Worth,Victoria,64,9244.9
+2046,Charis,64,Female,Missing,Mass Customer,New South Wales,3,9188.77
+1043,Giorgi,37,Male,Financial Services,Mass Customer,Queensland,34,9140.646097558138
+2788,Melantha,55,Female,Health,Affluent Customer,Victoria,45,9061.470000000001
+3232,Rose,30,Female,Financial Services,Mass Customer,Victoria,7,8903.62
+832,Shaun,46,Male,Retail,Mass Customer,Queensland,30,8868.619999999999
+2912,Tobit,47,Male,Missing,High Net Worth,New South Wales,60,8835.01
+1866,Huberto,31,Male,Manufacturing,Mass Customer,New South Wales,27,8834.6
+2860,Charity,28,Female,Missing,Mass Customer,New South Wales,13,8670.21304877907
+1559,Hilton,48,Male,Health,High Net Worth,New South Wales,63,8624.72
+999,Dido,35,Female,Missing,High Net Worth,Victoria,12,8611.949999999999
+213,Lockwood,27,Male,Financial Services,High Net Worth,Queensland,13,8544.5
+1140,Deana,37,Female,Missing,Mass Customer,New South Wales,32,8533.23
+3117,Nisse,28,Female,Financial Services,Affluent Customer,Victoria,68,8531.16
+1625,Caryl,46,Male,Property,Mass Customer,New South Wales,20,8499.59
+2492,Gayelord,49,Male,Manufacturing,High Net Worth,New South Wales,35,8437.43
+3048,Kenon,54,Male,Manufacturing,Mass Customer,Victoria,38,8379.960000000001
+473,Benji,46,Male,Health,Mass Customer,Victoria,2,8364.66
+1329,Wendy,34,Female,Missing,Mass Customer,Victoria,65,8352.16
+3242,Lib,65,Female,Manufacturing,Affluent Customer,Victoria,4,8336.023048779069
+841,Hanan,57,Male,Manufacturing,Affluent Customer,Victoria,93,8330.09
+347,Berkly,58,Male,Financial Services,Mass Customer,New South Wales,50,8326.369999999999
+3460,Reinhold,24,Male,Financial Services,Mass Customer,Victoria,22,8321.81
+3212,Corella,42,Female,Financial Services,Affluent Customer,New South Wales,62,8274.373048779067
+1991,Tobe,30,Male,Health,Mass Customer,New South Wales,35,8256.08
+2379,Trixie,42,Female,Health,Affluent Customer,New South Wales,85,8252.73
+2695,Kippy,47,Female,Manufacturing,Mass Customer,New South Wales,88,8243.810000000001
+2702,Saraann,47,Female,Manufacturing,Affluent Customer,New South Wales,34,8239.113048779069
+1033,Jacob,28,Male,Missing,Affluent Customer,Queensland,70,8220.050000000001
+733,Ham,50,Male,Manufacturing,Mass Customer,New South Wales,25,8210.3
+2659,Konstance,49,Female,Argiculture,High Net Worth,Queensland,81,8143.93
+1076,Siegfried,23,Male,Health,Affluent Customer,New South Wales,33,8104.54
+1579,Madelaine,45,Female,Financial Services,Affluent Customer,New South Wales,40,8102.620000000001
+344,Carlene,50,Female,Missing,High Net Worth,New South Wales,91,8101.26
+2999,Rinaldo,0,Unknown,IT,Affluent Customer,Victoria,28,8095.2
+1722,Fritz,60,Male,Financial Services,Mass Customer,New South Wales,52,8086.75
+445,Timothy,39,Male,Financial Services,Mass Customer,Victoria,91,8081.860000000001
+2755,Karen,24,Female,Manufacturing,Mass Customer,Queensland,66,8029.273048779069
+1808,Charles,58,Male,Retail,High Net Worth,New South Wales,98,7965.28
+2874,Delores,46,Female,Manufacturing,Affluent Customer,Victoria,97,7910.31
+2468,Parker,28,Male,Retail,High Net Worth,Queensland,51,7842.173048779069
+2464,Cleve,40,Male,Retail,Mass Customer,New South Wales,78,7817.1
+1475,Aristotle,38,Male,Retail,Affluent Customer,New South Wales,41,7812.17
+2458,Leilah,59,Female,Manufacturing,High Net Worth,New South Wales,73,7756.789999999999
+1503,Del,55,Female,Missing,Affluent Customer,New South Wales,1,7752.936097558137
+753,Josy,53,Female,Health,Affluent Customer,New South Wales,82,7727.17
+438,Ebenezer,34,Male,Property,High Net Worth,Victoria,25,7692.39
+1572,Tam,66,Male,Financial Services,High Net Worth,New South Wales,51,7651.019999999999
+174,Catie,34,Female,Health,Mass Customer,New South Wales,93,7628.24
+1290,Vassily,56,Male,Financial Services,High Net Worth,Queensland,49,7616.040000000001
+1868,Aloisia,35,Female,Retail,Mass Customer,Queensland,11,7566.25
+2733,Jordanna,38,Female,Manufacturing,Mass Customer,Queensland,89,7565.713048779068
+1028,Thorn,24,Male,Missing,High Net Worth,New South Wales,10,7562.68
+2894,Gilburt,46,Male,Financial Services,Mass Customer,Queensland,91,7544.080000000001
+921,Gretchen,44,Female,Manufacturing,Mass Customer,New South Wales,77,7516.02
+2565,Joannes,54,Female,Health,Affluent Customer,New South Wales,62,7496.36
+2476,Hal,67,Male,Property,High Net Worth,Queensland,13,7493.2300000000005
+3134,Pierette,28,Female,Manufacturing,Mass Customer,New South Wales,53,7491.11
+1530,Alexandr,47,Male,Health,Mass Customer,New South Wales,89,7390.75
+425,Michaeline,70,Female,Retail,Mass Customer,New South Wales,60,7388.6
+1103,Glynnis,45,Female,Financial Services,High Net Worth,New South Wales,76,7367.88
+2653,Aylmer,28,Male,Health,Affluent Customer,Victoria,80,7365.4800000000005
+280,Welch,28,Male,Missing,Affluent Customer,New South Wales,15,7360.53
+1821,Fields,51,Male,Entertainment,High Net Worth,New South Wales,89,7335.889999999999
+2101,Maryann,25,Female,Missing,Mass Customer,Victoria,71,7332.69
+725,Gage,58,Male,Health,High Net Worth,Queensland,61,7321.5
+3256,Collen,37,Female,Financial Services,Affluent Customer,Queensland,76,7287.87
+200,Hube,66,Male,Property,Affluent Customer,Queensland,7,7283.86
+853,Nolana,42,Female,Retail,Mass Customer,New South Wales,26,7263.66
+1984,Hewett,24,Male,Health,Mass Customer,New South Wales,70,7256.08
+3215,Wolfgang,47,Male,Missing,Mass Customer,New South Wales,14,7247.329999999999
+3470,Catherina,56,Female,Health,Affluent Customer,Victoria,56,7228.799999999999
+720,Darrel,92,Male,Retail,Affluent Customer,New South Wales,67,7212.17
+320,Aldous,26,Male,Health,Mass Customer,Queensland,19,7204.66
+2151,Herrick,37,Male,Entertainment,Affluent Customer,Queensland,9,7187.34
+255,Keeley,69,Female,IT,Mass Customer,Victoria,2,7179.923048779068
+2309,Herc,38,Male,Manufacturing,Affluent Customer,Queensland,40,7161.99
+1093,Clarita,27,Female,Missing,Affluent Customer,New South Wales,63,7159.69
+799,Harland,0,Unknown,IT,Mass Customer,New South Wales,39,7142.200000000001
+607,Adelaida,47,Female,Health,Mass Customer,New South Wales,55,7137.62
+2184,Lamar,52,Male,Health,Mass Customer,New South Wales,49,7123.000000000001
+706,Kane,33,Male,Financial Services,High Net Worth,Victoria,44,7109.4
+565,Saleem,64,Male,Manufacturing,Mass Customer,New South Wales,30,7079.07
+1396,Sinclair,36,Male,Financial Services,Mass Customer,Victoria,20,7075.58
+8,Rod,61,Male,Missing,Mass Customer,New South Wales,31,7066.94
+1672,Sharla,60,Female,IT,Affluent Customer,New South Wales,21,7048.003048779069
+1619,Matteo,52,Male,Missing,Mass Customer,New South Wales,83,7031.79
+1317,Barrett,50,Male,Retail,Mass Customer,Queensland,2,7024.709999999999
+515,Winna,34,Female,IT,High Net Worth,New South Wales,55,6986.24
+506,Brett,38,Female,Retail,Mass Customer,Victoria,43,6985.24
+1885,Jerome,41,Male,Health,High Net Worth,New South Wales,18,6979.280000000001
+1237,Junia,54,Female,Health,High Net Worth,Victoria,6,6961.5199999999995
+426,Emlyn,51,Female,Manufacturing,Affluent Customer,Victoria,10,6933.15
+1561,Clemens,48,Male,Manufacturing,Mass Customer,New South Wales,47,6918.889999999999
+117,Nance,41,Female,Manufacturing,Mass Customer,Queensland,75,6917.34
+299,Corabelle,67,Female,Financial Services,Mass Customer,New South Wales,80,6897.920000000001
+3280,Micki,36,Female,Financial Services,Mass Customer,New South Wales,49,6881.080000000001
+2705,Madalena,27,Female,Manufacturing,Mass Customer,Queensland,11,6879.610000000001
+2434,Lenci,67,Male,Missing,Affluent Customer,Queensland,40,6874.530000000001
+2992,Crystal,49,Female,Health,Mass Customer,Victoria,26,6871.539999999999
+3146,Fredrika,45,Female,Property,Mass Customer,New South Wales,79,6856.09
+2489,Emma,47,Female,Retail,Mass Customer,New South Wales,42,6854.85
+2369,Averyl,27,Female,Financial Services,Mass Customer,Victoria,80,6854.59
+2989,Mort,23,Male,Health,High Net Worth,New South Wales,37,6845.0599999999995
+2914,Jessamine,41,Female,Health,Affluent Customer,New South Wales,76,6835.96
+168,Reggie,0,Unknown,IT,Affluent Customer,Victoria,8,6816.383048779068
+3015,Queenie,23,Female,Retail,Affluent Customer,Queensland,25,6814.58
+2617,Vanda,64,Female,Health,High Net Worth,New South Wales,79,6814.219999999999
+3420,Norby,43,Male,Financial Services,Mass Customer,Queensland,96,6808.18
+353,Antonia,43,Female,Missing,Mass Customer,Victoria,9,6792.83
+1129,Hercule,46,Male,Entertainment,Mass Customer,Queensland,2,6790.69
+254,Barbie,62,Female,Retail,Mass Customer,Victoria,98,6780.95
+2036,Alix,46,Female,Missing,Mass Customer,New South Wales,11,6770.24
+995,Urbano,58,Male,Health,Mass Customer,Queensland,16,6764.669999999999
+2826,Loise,61,Female,Missing,Mass Customer,Victoria,73,6755.16
+2103,Jayme,48,Male,Financial Services,Affluent Customer,New South Wales,94,6752.629999999999
+1589,Walker,34,Male,Health,Mass Customer,New South Wales,83,6738.66
+1346,Woody,53,Male,Telecommunications,Mass Customer,Victoria,9,6736.53
+151,Donnie,58,Male,Manufacturing,Mass Customer,New South Wales,36,6734.053048779069
+1890,Carce,51,Male,Financial Services,Mass Customer,Queensland,89,6710.76
+983,Shaylyn,0,Unknown,IT,Affluent Customer,New South Wales,49,6710.06
+2747,Anna-diane,68,Female,Missing,Affluent Customer,New South Wales,5,6704.15304877907
+2929,Winny,24,Male,Retail,Mass Customer,Queensland,97,6692.39
+1992,Shanta,28,Female,Manufacturing,Mass Customer,New South Wales,28,6658.89
+2555,Brad,47,Male,Health,Affluent Customer,New South Wales,43,6648.753048779068
+787,Norma,27,Female,Retail,Affluent Customer,New South Wales,29,6646.0
+973,Annabella,44,Female,Health,High Net Worth,Victoria,46,6639.849999999999
+1233,Keeley,45,Female,Retail,Affluent Customer,New South Wales,17,6634.14
+1591,Fonz,47,Male,Manufacturing,Mass Customer,New South Wales,4,6633.523048779069
+198,Vanya,42,Female,Entertainment,Mass Customer,Victoria,82,6631.87
+594,Humfrey,43,Male,Missing,Mass Customer,New South Wales,74,6630.72
+590,Ddene,35,Female,Health,Mass Customer,New South Wales,85,6629.57
+2723,Morganne,45,Female,Manufacturing,Mass Customer,New South Wales,71,6591.0
+1084,Serena,29,Female,Retail,Affluent Customer,New South Wales,54,6580.56
+721,Harmonia,30,Female,Missing,Affluent Customer,Victoria,84,6579.62
+2791,Dew,35,Male,Financial Services,Mass Customer,New South Wales,72,6578.15
+2508,Virgil,27,Male,Missing,Mass Customer,New South Wales,98,6568.91
+1438,Winifred,48,Female,Health,Mass Customer,New South Wales,27,6559.709999999999
+2542,Amanda,57,Female,Property,Affluent Customer,New South Wales,43,6559.26
+173,Ebba,26,Female,Health,Affluent Customer,New South Wales,99,6549.509999999999
+1797,Basile,49,Male,Missing,Mass Customer,Victoria,49,6539.78
+1696,Mose,32,Male,Entertainment,High Net Worth,New South Wales,48,6524.7699999999995
+1863,Adelbert,45,Male,Telecommunications,High Net Worth,New South Wales,10,6524.34
+1547,Chiquita,33,Female,Missing,Mass Customer,New South Wales,82,6523.1900000000005
+2841,Bibby,60,Female,Missing,Mass Customer,New South Wales,19,6522.279999999999
+3290,Brandyn,61,Male,Manufacturing,High Net Worth,Victoria,22,6520.130000000001
+273,Nevile,60,Male,Missing,Mass Customer,Victoria,54,6519.24
+2183,Jillie,51,Female,Manufacturing,Mass Customer,Queensland,61,6513.299999999999
+2662,Louisette,46,Female,Property,Mass Customer,New South Wales,53,6500.299999999999
+1811,Sylvan,24,Male,Financial Services,Mass Customer,New South Wales,59,6493.8
+2592,Archibaldo,28,Male,Financial Services,Mass Customer,Victoria,84,6490.3
+2428,Pauly,55,Male,Missing,Mass Customer,Victoria,74,6462.950000000001
+1285,Tomkin,50,Male,Manufacturing,Mass Customer,Queensland,44,6456.509999999999
+538,Millicent,67,Female,Manufacturing,Mass Customer,Queensland,33,6447.15
+1022,Suzann,33,Female,Financial Services,Affluent Customer,New South Wales,56,6444.49
+3012,Devland,0,Unknown,IT,Mass Customer,Victoria,81,6440.13
+1506,Andonis,65,Male,Property,Mass Customer,New South Wales,21,6435.099999999999
+2070,Tiphany,42,Female,Missing,Mass Customer,New South Wales,0,6433.749999999999
+710,Benton,53,Male,Retail,High Net Worth,New South Wales,76,6431.6900000000005
+346,Timmie,42,Male,Financial Services,Mass Customer,New South Wales,68,6420.7
+2616,Andee,53,Female,Missing,High Net Worth,New South Wales,28,6417.95
+2794,Megen,48,Female,Health,Mass Customer,New South Wales,41,6417.0599999999995
+728,Winthrop,67,Male,Financial Services,Mass Customer,Victoria,60,6411.76
+2132,Davina,38,Female,Financial Services,High Net Worth,New South Wales,16,6401.83
+3249,Cortney,42,Female,Manufacturing,Mass Customer,New South Wales,46,6400.0
+2982,Celisse,41,Female,Financial Services,Mass Customer,Victoria,30,6366.75
+1440,Consuela,58,Female,Financial Services,High Net Worth,New South Wales,19,6362.469999999999
+3050,Dinnie,26,Female,Missing,High Net Worth,New South Wales,90,6353.12
+37,Laurie,38,Female,Health,High Net Worth,Queensland,46,6338.49
+2684,Erastus,59,Male,Health,Mass Customer,Queensland,96,6337.4
+1783,Brett,28,Male,Retail,Mass Customer,New South Wales,55,6331.35
+3199,Florry,54,Female,Missing,Mass Customer,Queensland,98,6329.52
+2019,Neda,70,Female,Entertainment,High Net Worth,Queensland,48,6325.84
+1150,Bernelle,48,Female,Financial Services,Mass Customer,Queensland,64,6308.28
+2985,Kerby,37,Male,Retail,Affluent Customer,New South Wales,69,6308.16
+946,Bettina,62,Female,Manufacturing,High Net Worth,New South Wales,16,6305.6
+1131,Sigmund,67,Male,Missing,Mass Customer,Queensland,16,6295.5199999999995
+2937,Belia,49,Female,Financial Services,Mass Customer,Victoria,47,6294.38
+2201,Trisha,25,Female,Financial Services,Affluent Customer,Queensland,56,6290.013048779068
+204,Thorny,47,Male,Financial Services,Mass Customer,Victoria,56,6287.29
+2574,Humfrey,44,Male,Manufacturing,Mass Customer,New South Wales,73,6276.370000000001
+3251,Cammie,47,Female,Financial Services,High Net Worth,New South Wales,95,6264.88
+1389,Reina,61,Female,Health,Affluent Customer,Victoria,27,6263.12
+2190,Maressa,44,Female,IT,Affluent Customer,New South Wales,77,6260.31
+665,Chan,26,Male,Missing,Mass Customer,Queensland,82,6260.02
+1313,Hughie,37,Male,Property,Mass Customer,Queensland,59,6258.843048779069
+1331,Edward,36,Male,Telecommunications,High Net Worth,Victoria,12,6252.43
+2475,Cammi,46,Female,Missing,Mass Customer,Queensland,68,6245.25
+3118,Cleveland,30,Male,Health,High Net Worth,Queensland,54,6243.82
+2961,Merv,48,Male,Health,Mass Customer,Victoria,56,6234.87
+2766,Rozanna,34,Female,Financial Services,High Net Worth,New South Wales,93,6233.3
+1502,Margalit,33,Female,Financial Services,Affluent Customer,New South Wales,52,6209.679999999999
+2887,Gardiner,49,Male,Financial Services,High Net Worth,New South Wales,42,6202.900000000001
+2194,Johnette,65,Female,Manufacturing,Affluent Customer,Queensland,79,6198.41
+380,Teriann,67,Female,Property,Mass Customer,Queensland,66,6196.16
+2095,Anette,34,Female,Manufacturing,Affluent Customer,Victoria,69,6194.3
+3032,Renado,31,Male,Health,Affluent Customer,Queensland,53,6183.3099999999995
+165,Aldon,39,Male,Argiculture,Mass Customer,New South Wales,61,6182.52
+1473,Darrick,63,Male,Missing,Mass Customer,New South Wales,49,6176.3
+29,Mona,55,Female,Manufacturing,Mass Customer,Queensland,62,6175.299999999999
+3405,Gavra,27,Female,Financial Services,Mass Customer,Queensland,89,6167.71
+1578,Andreas,45,Male,Health,High Net Worth,New South Wales,60,6165.1
+2537,Peggi,34,Female,Missing,Affluent Customer,New South Wales,8,6157.03
+2454,Gene,63,Female,Property,Mass Customer,New South Wales,81,6153.673048779068
+2787,Teressa,43,Female,Missing,Affluent Customer,Victoria,92,6153.0
+1616,Shamus,68,Male,Retail,High Net Worth,Queensland,75,6150.25
+1300,Sisely,32,Female,Financial Services,Affluent Customer,Queensland,0,6148.62
+2051,Teresita,64,Female,Manufacturing,Affluent Customer,New South Wales,8,6140.66
+3273,Darline,45,Female,Entertainment,Mass Customer,Victoria,72,6133.65
+1168,Iosep,58,Male,Health,Affluent Customer,Victoria,44,6128.860000000001
+2240,Niall,54,Male,Manufacturing,High Net Worth,Victoria,4,6128.299999999999
+621,Constantin,59,Male,Missing,High Net Worth,New South Wales,78,6126.810000000001
+614,Nonnah,28,Female,Manufacturing,Mass Customer,New South Wales,45,6120.46
+2686,Cully,27,Male,Financial Services,Affluent Customer,Victoria,63,6119.73
+1493,Lisabeth,36,Female,Argiculture,High Net Worth,New South Wales,51,6117.05
+1250,Jacklyn,22,Female,Manufacturing,Mass Customer,Queensland,42,6093.26
+2548,Kristien,52,Female,Missing,Mass Customer,Victoria,11,6085.99
+39,Hunfredo,44,Male,Entertainment,Mass Customer,New South Wales,5,6085.17
+569,Jaime,47,Male,IT,Mass Customer,New South Wales,30,6084.139999999999
+1113,Dorie,31,Male,Property,Mass Customer,New South Wales,45,6072.4800000000005
+2165,Marlie,0,Unknown,Manufacturing,Affluent Customer,Victoria,16,6052.93
+1629,Edsel,49,Male,Financial Services,Mass Customer,Queensland,46,6051.87
+943,Holly,44,Male,Property,Affluent Customer,New South Wales,94,6038.52
+3402,Krystyna,38,Female,Retail,Mass Customer,New South Wales,73,6036.1900000000005
+2013,Marge,28,Female,Health,Affluent Customer,New South Wales,99,6025.31
+3431,York,27,Male,Property,Affluent Customer,Victoria,97,6022.12
+2301,Ken,57,Male,Financial Services,Mass Customer,Queensland,66,6010.17
+1988,Kelwin,66,Male,Property,Mass Customer,Victoria,27,6006.4
+902,Selene,34,Female,Retail,Mass Customer,New South Wales,37,6003.05
+1683,Brenn,0,Unknown,IT,Mass Customer,New South Wales,72,5995.2
+167,Nathalie,54,Female,Health,High Net Worth,Queensland,95,5993.34
+80,Pablo,45,Male,Entertainment,Mass Customer,Victoria,11,5988.86
+2463,Krystle,45,Female,Health,Mass Customer,Victoria,54,5972.620000000001
+2750,Sybille,43,Female,Property,High Net Worth,Victoria,42,5964.05
+1144,Damon,27,Male,Health,High Net Worth,New South Wales,73,5961.25
+1299,Maddy,46,Female,Missing,Affluent Customer,Queensland,72,5957.78
+3055,Viki,24,Female,Missing,Mass Customer,Queensland,96,5955.54
+2538,Jacinta,64,Female,Missing,High Net Worth,New South Wales,13,5949.92
+3058,Hamnet,37,Male,Manufacturing,Mass Customer,New South Wales,67,5935.45
+239,Wells,31,Male,Health,Affluent Customer,Queensland,62,5928.23
+3433,Karissa,25,Female,Property,Mass Customer,Victoria,10,5925.74
+3484,Hedi,47,Female,Financial Services,High Net Worth,Queensland,10,5924.549999999999
+3108,Trip,56,Male,Entertainment,Mass Customer,Queensland,94,5916.21
+1348,Lowe,39,Male,Missing,High Net Worth,Victoria,88,5915.860000000001
+2169,Jarrad,44,Male,Financial Services,Mass Customer,New South Wales,80,5907.85
+773,Robbie,38,Male,Financial Services,Affluent Customer,Queensland,77,5907.35
+482,Gar,61,Male,Health,Mass Customer,New South Wales,33,5887.200000000001
+1661,Meggy,44,Female,Health,Affluent Customer,New South Wales,21,5880.33
+2069,Sol,0,Unknown,IT,Mass Customer,Queensland,32,5879.97
+2816,Denys,34,Female,Financial Services,Mass Customer,Queensland,87,5878.47
+1517,Murdoch,36,Male,IT,Affluent Customer,New South Wales,90,5878.15
+2523,Lauree,62,Female,Financial Services,Mass Customer,Queensland,28,5877.28
+2383,Zaria,45,Female,Financial Services,Mass Customer,New South Wales,34,5876.070000000001
+2060,Constancia,64,Female,Financial Services,Mass Customer,Victoria,17,5875.139999999999
+1762,Gaye,45,Female,Health,Mass Customer,Victoria,49,5870.929999999999
+2391,Corny,62,Female,Health,Mass Customer,Queensland,72,5862.45
+2336,Karney,45,Male,Health,Affluent Customer,New South Wales,59,5853.82
+2901,Banky,28,Male,Manufacturing,Mass Customer,Queensland,77,5850.34
+2591,Estevan,49,Male,Retail,High Net Worth,New South Wales,50,5839.22
+1205,Barton,45,Male,Manufacturing,Affluent Customer,New South Wales,38,5828.49
+3336,Konstantine,44,Male,Manufacturing,Mass Customer,Queensland,47,5824.48
+2932,Bradly,38,Male,IT,Mass Customer,Queensland,4,5823.709999999999
+3286,Kent,62,Male,Entertainment,Mass Customer,Victoria,23,5817.4400000000005
+3168,Johan,47,Male,Health,Affluent Customer,Queensland,89,5816.803048779068
+3228,Margette,59,Female,Health,Mass Customer,New South Wales,36,5814.45
+823,Stesha,33,Female,Manufacturing,Affluent Customer,New South Wales,91,5811.3
+2341,Caterina,0,Unknown,IT,Mass Customer,Victoria,41,5810.163048779069
+1957,Gary,46,Male,Property,Affluent Customer,Victoria,1,5809.333048779069
+1901,Vail,46,Male,Argiculture,Affluent Customer,Queensland,40,5809.11
+1461,Earl,66,Male,Retail,Mass Customer,New South Wales,71,5805.92
+2401,Drake,46,Male,Missing,Mass Customer,Victoria,7,5804.28
+3045,Renato,27,Male,Financial Services,Affluent Customer,Queensland,52,5802.7699999999995
+1773,Nickolas,0,Unknown,IT,Mass Customer,New South Wales,82,5802.023048779069
+2469,Kermie,0,Unknown,IT,Mass Customer,New South Wales,18,5796.209999999999
+3350,Tam,48,Male,Manufacturing,Affluent Customer,New South Wales,53,5796.16
+3044,Russell,33,Male,Health,Affluent Customer,Victoria,59,5793.33
+50,Whitby,43,Male,Manufacturing,Mass Customer,New South Wales,38,5783.66
+89,Benedicto,56,Male,Health,Mass Customer,New South Wales,74,5779.650000000001
+3411,Alena,43,Female,Missing,Mass Customer,Victoria,68,5772.78
+298,Maurise,67,Male,Manufacturing,High Net Worth,Victoria,69,5756.243048779069
+655,Stuart,49,Male,Manufacturing,Affluent Customer,Victoria,64,5753.879999999999
+325,Anthia,52,Female,Financial Services,Affluent Customer,Queensland,98,5742.203048779069
+112,Shena,48,Female,Retail,High Net Worth,Victoria,88,5742.19
+1832,Elicia,59,Female,Manufacturing,Mass Customer,Queensland,53,5739.57
+1967,Nomi,38,Female,Manufacturing,Affluent Customer,New South Wales,88,5732.110000000001
+461,Jsandye,44,Female,Health,Mass Customer,New South Wales,19,5722.38
+234,Mead,54,Female,Retail,High Net Worth,New South Wales,71,5694.883048779068
+1106,Sibyl,61,Female,Retail,Mass Customer,Victoria,2,5691.610000000001
+2580,Kalinda,35,Female,Financial Services,Mass Customer,Victoria,27,5690.45
+1357,Waylin,30,Male,Health,High Net Worth,Victoria,69,5689.86
+2275,Ursulina,31,Female,Financial Services,High Net Worth,Victoria,77,5688.289999999999
+3060,Milton,41,Male,Financial Services,Mass Customer,New South Wales,28,5684.7300000000005
+2510,Nealson,50,Male,Manufacturing,Mass Customer,Victoria,43,5681.299999999999
+691,Carver,69,Male,Financial Services,Affluent Customer,New South Wales,29,5678.4
+3191,Bobbette,64,Female,Financial Services,Affluent Customer,Queensland,29,5673.639999999999
+1686,Fremont,43,Male,Argiculture,Mass Customer,New South Wales,95,5672.85
+545,Alecia,45,Female,Health,Mass Customer,New South Wales,43,5665.789999999999
+3201,Zed,23,Male,Financial Services,Mass Customer,New South Wales,61,5655.87
+1725,Corena,44,Female,Manufacturing,High Net Worth,New South Wales,80,5652.16
+1398,Anderea,57,Female,Manufacturing,Mass Customer,Victoria,11,5649.83
+2187,Brunhilde,26,Female,Health,Mass Customer,New South Wales,52,5644.17
+2375,Alika,36,Female,Retail,Affluent Customer,Victoria,21,5641.47
+2347,L;urette,66,Female,Missing,High Net Worth,New South Wales,79,5640.43
+1554,Land,29,Male,Retail,Affluent Customer,New South Wales,83,5636.08
+430,Janice,50,Female,Financial Services,High Net Worth,Queensland,46,5625.17
+2351,Felicity,31,Female,Retail,Affluent Customer,Victoria,35,5612.84
+2651,Silvan,45,Male,Manufacturing,Mass Customer,New South Wales,10,5608.663048779069
+3379,Elysee,24,Female,Health,Mass Customer,Victoria,51,5599.08
+2610,Arliene,69,Female,IT,Mass Customer,Queensland,41,5598.91
+1410,Althea,26,Female,Retail,High Net Worth,New South Wales,10,5597.11
+2560,Sherm,43,Male,Missing,Mass Customer,New South Wales,7,5595.44
+2390,Tonya,59,Female,Property,Mass Customer,Queensland,48,5593.6
+3261,Benedicto,48,Male,Property,Mass Customer,New South Wales,6,5588.163048779069
+2856,Milissent,47,Female,Financial Services,Mass Customer,New South Wales,53,5583.33
+768,Alexia,49,Female,Argiculture,Affluent Customer,New South Wales,5,5580.570000000001
+3450,Brooke,30,Female,Retail,Mass Customer,Queensland,85,5577.06
+2076,Beatriz,54,Female,Manufacturing,Mass Customer,Victoria,73,5576.17
+2879,Tatum,49,Female,Argiculture,Mass Customer,Victoria,62,5572.11
+3264,Garret,45,Male,Financial Services,Mass Customer,New South Wales,88,5564.593048779069
+3217,Lorena,55,Female,Manufacturing,Mass Customer,New South Wales,95,5564.08
+2055,Harmon,43,Male,Retail,High Net Worth,New South Wales,46,5563.629999999999
+48,Rebbecca,48,Female,Missing,Mass Customer,Victoria,46,5561.08
+1830,Nathan,38,Male,Manufacturing,High Net Worth,New South Wales,98,5558.693048779069
+2883,Ulick,28,Male,Financial Services,Mass Customer,New South Wales,84,5553.21
+2936,Pavia,39,Female,Financial Services,Mass Customer,New South Wales,23,5550.62
+3482,Roch,23,Female,Health,Affluent Customer,Queensland,71,5549.59
+868,Effie,44,Female,Financial Services,Mass Customer,New South Wales,84,5534.83
+3240,Ryon,47,Male,Missing,Mass Customer,New South Wales,90,5534.52
+1898,Katalin,44,Female,Manufacturing,Affluent Customer,Queensland,67,5525.673048779069
+153,Lorilyn,46,Female,Entertainment,Mass Customer,New South Wales,73,5522.509999999999
+1282,Garald,43,Male,Entertainment,Affluent Customer,Queensland,99,5521.41
+2048,Sorcha,63,Female,Financial Services,High Net Worth,New South Wales,22,5517.21
+2615,Cordelia,25,Female,Financial Services,Mass Customer,New South Wales,23,5517.12
+669,Fleur,43,Female,Missing,Mass Customer,Queensland,73,5513.28
+294,Magnum,64,Male,Missing,High Net Worth,Victoria,39,5509.67
+1428,Morissa,25,Female,Retail,High Net Worth,New South Wales,93,5508.8
+2654,Dawn,46,Female,Telecommunications,Mass Customer,New South Wales,83,5504.95
+3081,Dodi,52,Female,Missing,High Net Worth,Victoria,61,5502.82
+935,Aldin,29,Male,Missing,Mass Customer,New South Wales,76,5502.11
+131,Jana,59,Female,Retail,High Net Worth,Queensland,57,5494.91
+1213,Matthieu,50,Male,Missing,High Net Worth,Victoria,80,5490.29
+1306,Doyle,67,Male,Health,Affluent Customer,Queensland,13,5486.1
+2590,Roslyn,59,Female,Financial Services,Affluent Customer,New South Wales,48,5482.999999999999
+2138,Jonell,45,Female,Manufacturing,High Net Worth,New South Wales,23,5474.02
+2822,Rebecca,42,Female,Missing,Mass Customer,Victoria,83,5473.67
+3406,Lucy,44,Female,IT,Mass Customer,New South Wales,35,5463.639999999999
+2799,Ilysa,50,Female,Missing,Mass Customer,New South Wales,80,5460.139999999999
+2418,Elspeth,53,Female,Property,Mass Customer,Victoria,82,5457.09
+1287,Nicko,63,Male,Financial Services,Mass Customer,Queensland,72,5456.97
+2386,Adrianne,26,Female,Financial Services,Mass Customer,New South Wales,93,5453.860000000001
+1611,Terencio,52,Male,Health,High Net Worth,New South Wales,93,5450.34
+394,Roanne,46,Female,Health,High Net Worth,New South Wales,70,5445.46
+1258,Nefen,45,Male,Manufacturing,Mass Customer,Queensland,89,5441.22
+1667,Jaime,68,Male,Manufacturing,High Net Worth,New South Wales,67,5432.4
+289,Modestia,53,Female,Health,High Net Worth,New South Wales,43,5431.013048779068
+682,Ole,52,Male,Health,Affluent Customer,New South Wales,53,5428.94
+1404,Emmott,66,Male,Manufacturing,Mass Customer,Victoria,78,5426.7
+2446,Lovell,67,Male,Retail,Affluent Customer,New South Wales,33,5417.47
+182,Lydon,31,Male,Financial Services,Affluent Customer,Queensland,99,5409.120000000001
+2172,Emmery,44,Male,Health,Affluent Customer,New South Wales,6,5407.15
+2269,Beitris,34,Female,Missing,Mass Customer,New South Wales,33,5404.639999999999
+637,Mercy,47,Female,Health,High Net Worth,New South Wales,60,5402.47
+2993,Blinnie,28,Female,Financial Services,Affluent Customer,New South Wales,85,5400.88
+1552,Cully,35,Male,Entertainment,Mass Customer,New South Wales,80,5400.320000000001
+1435,Derek,55,Male,Telecommunications,Affluent Customer,New South Wales,96,5393.83
+671,Aristotle,39,Male,Argiculture,Mass Customer,New South Wales,49,5393.05
+917,Odo,59,Male,Financial Services,Mass Customer,Victoria,63,5392.89
+750,Izaak,28,Male,Retail,Affluent Customer,New South Wales,42,5391.71
+331,Ford,25,Male,Health,Mass Customer,New South Wales,87,5389.723048779068
+2388,Quincy,26,Male,Financial Services,Mass Customer,New South Wales,84,5387.65
+1858,Gabriella,66,Female,Manufacturing,High Net Worth,New South Wales,30,5387.47
+533,Conny,42,Male,Retail,Mass Customer,New South Wales,40,5387.05
+1000,Paulie,45,Female,Financial Services,Mass Customer,Victoria,44,5383.48
+1492,Cordey,43,Female,Missing,Mass Customer,New South Wales,51,5381.923048779068
+2139,Carolina,41,Female,IT,Affluent Customer,Victoria,87,5380.68
+2260,Jarad,56,Male,Argiculture,High Net Worth,New South Wales,38,5378.6
+2857,Alanna,66,Female,Manufacturing,Mass Customer,Queensland,9,5373.63
+2737,Andras,25,Male,Retail,Mass Customer,New South Wales,28,5371.57
+446,Marilee,45,Female,IT,Affluent Customer,New South Wales,73,5363.3
+1682,Gerladina,63,Female,Manufacturing,Affluent Customer,Victoria,93,5354.43
+1615,Evvie,52,Female,Entertainment,Mass Customer,Victoria,75,5353.57
+1328,Stavro,42,Male,IT,Mass Customer,Victoria,19,5351.58
+2001,Mada,46,Female,Manufacturing,Mass Customer,New South Wales,21,5347.870000000001
+1302,Ericka,25,Female,Financial Services,Affluent Customer,Queensland,29,5336.7300000000005
+25,Geoff,47,Male,Financial Services,Mass Customer,Queensland,72,5333.66
+189,Umberto,42,Male,Financial Services,Affluent Customer,Victoria,73,5329.98
+3255,Sutherlan,0,Unknown,IT,High Net Worth,Victoria,47,5322.56
+1570,Phil,28,Female,Entertainment,Mass Customer,New South Wales,70,5321.3
+2652,Kelbee,66,Male,Missing,Affluent Customer,New South Wales,96,5319.91
+230,Maegan,69,Female,Property,High Net Worth,New South Wales,74,5319.63
+2726,Bradford,47,Male,Financial Services,Affluent Customer,New South Wales,49,5318.75
+3387,Shel,47,Female,Manufacturing,Affluent Customer,New South Wales,19,5318.6900000000005
+467,Welbie,69,Male,Property,Affluent Customer,New South Wales,51,5314.413048779069
+507,Gwen,52,Female,Health,Mass Customer,New South Wales,98,5313.243048779069
+3184,Marlee,47,Female,Manufacturing,Affluent Customer,New South Wales,2,5310.3
+34,Jephthah,180,Unknown,IT,Affluent Customer,Queensland,59,5303.713048779069
+1003,Mariann,55,Female,Financial Services,High Net Worth,Queensland,35,5300.38
+2374,Dolf,30,Male,Financial Services,Mass Customer,Victoria,6,5300.04
+330,Port,64,Male,Manufacturing,High Net Worth,New South Wales,78,5296.799999999999
+1133,Forrester,55,Male,Manufacturing,Affluent Customer,Queensland,88,5295.09
+69,Heidi,54,Female,Missing,Mass Customer,Victoria,16,5294.75
+33,Ernst,66,Male,Missing,Affluent Customer,New South Wales,44,5294.27
+909,Suzette,63,Female,Missing,High Net Worth,Victoria,77,5289.22
+2865,Lila,26,Female,Manufacturing,High Net Worth,New South Wales,11,5283.91
+2729,Meggi,23,Female,Missing,Mass Customer,Victoria,76,5280.35
+647,Stanislas,66,Male,Retail,Mass Customer,Victoria,61,5279.19
+2824,Lombard,28,Male,Entertainment,Affluent Customer,Victoria,41,5278.02
+374,Valdemar,31,Male,Financial Services,Mass Customer,Victoria,81,5271.75
+2109,Grazia,58,Female,Health,High Net Worth,New South Wales,14,5263.13
+1039,Nona,48,Female,Missing,High Net Worth,New South Wales,24,5259.0
+2142,Marti,44,Female,Missing,Affluent Customer,Queensland,61,5258.120000000001
+2144,Maureene,45,Female,Property,Mass Customer,New South Wales,12,5253.88
+1182,Carolann,48,Female,IT,Mass Customer,New South Wales,84,5251.833048779069
+887,Patrizius,26,Male,Manufacturing,High Net Worth,New South Wales,55,5247.4400000000005
+3295,Cleavland,59,Male,Retail,High Net Worth,Victoria,14,5246.61
+91,Dylan,68,Male,Financial Services,Affluent Customer,New South Wales,69,5242.410000000001
+2217,Kristofor,42,Male,Financial Services,Mass Customer,Queensland,98,5237.823048779068
+2290,Myca,42,Male,Manufacturing,Mass Customer,Victoria,18,5235.79
+1119,Lemmy,47,Male,Entertainment,Mass Customer,New South Wales,43,5235.71
+3086,Pieter,0,Unknown,IT,High Net Worth,Queensland,18,5232.723048779068
+2380,Merissa,67,Female,Retail,Mass Customer,New South Wales,44,5231.29
+1750,Filbert,64,Male,Entertainment,Mass Customer,New South Wales,14,5227.9800000000005
+2045,Hermina,39,Female,Financial Services,High Net Worth,New South Wales,15,5224.69
+1494,Levon,37,Male,Missing,Mass Customer,New South Wales,46,5221.26
+385,Kendall,57,Male,Health,High Net Worth,New South Wales,69,5220.5199999999995
+685,Booth,0,Unknown,IT,Mass Customer,New South Wales,28,5218.2
+2907,Erik,46,Male,Financial Services,High Net Worth,Victoria,89,5213.35
+2400,Lindsay,45,Male,Property,Mass Customer,Queensland,73,5205.75
+2753,Bale,38,Male,Manufacturing,Mass Customer,New South Wales,26,5203.18
+1374,Cleveland,47,Male,Manufacturing,Mass Customer,Victoria,76,5196.33
+343,Nicole,66,Female,Property,Affluent Customer,New South Wales,76,5193.5599999999995
+645,Randolf,52,Male,Missing,High Net Worth,Victoria,50,5192.72
+953,Jasmin,44,Female,Missing,Mass Customer,Queensland,16,5191.52
+2808,Preston,22,Male,Financial Services,Mass Customer,New South Wales,68,5190.91
+52,Curran,35,Male,Financial Services,Mass Customer,New South Wales,57,5188.6430487790685
+1853,Agathe,36,Female,Missing,Mass Customer,Victoria,67,5184.76
+987,Lars,49,Male,Financial Services,Affluent Customer,Queensland,89,5180.26
+2635,Arty,64,Male,Retail,Mass Customer,Victoria,45,5178.5599999999995
+2629,Nomi,47,Female,Entertainment,High Net Worth,New South Wales,60,5174.88
+1138,Elli,32,Female,Retail,Mass Customer,Queensland,77,5174.44
+1551,Joell,48,Female,Entertainment,Affluent Customer,New South Wales,37,5171.89
+1345,Jeth,63,Male,Manufacturing,Mass Customer,Victoria,94,5170.95
+3003,Brita,60,Female,Retail,Mass Customer,New South Wales,72,5168.14
+1178,Angelo,53,Male,Health,Mass Customer,New South Wales,1,5167.23
+139,Gar,59,Male,Telecommunications,Affluent Customer,Queensland,1,5161.44
+1850,Dare,45,Male,Manufacturing,High Net Worth,New South Wales,4,5159.719999999999
+2105,Terrance,52,Male,Health,High Net Worth,Victoria,29,5155.91
+3166,Bronson,68,Male,Health,Mass Customer,New South Wales,96,5155.63
+2270,Augustus,57,Male,Retail,Affluent Customer,Victoria,50,5154.68
+2121,Clarita,34,Female,Financial Services,Mass Customer,Victoria,35,5151.1830487790685
+1291,Warner,43,Male,Health,Mass Customer,Queensland,0,5147.26
+2185,Gayle,60,Female,Property,Mass Customer,New South Wales,40,5144.36
+3467,Killy,43,Male,IT,Mass Customer,Queensland,31,5135.0
+2023,Marco,52,Male,Missing,High Net Worth,New South Wales,15,5132.78
+1243,Robbert,70,Male,Retail,Mass Customer,New South Wales,73,5127.43
+57,Abba,35,Male,Missing,Mass Customer,Queensland,87,5117.96
+432,Amby,33,Male,Manufacturing,Affluent Customer,New South Wales,83,5110.17
+2433,Burty,47,Male,Missing,High Net Worth,New South Wales,38,5108.660000000001
+1917,Raquela,50,Female,Argiculture,Affluent Customer,New South Wales,7,5107.25
+1954,Greg,56,Male,Manufacturing,Affluent Customer,New South Wales,88,5105.49
+1537,Andres,54,Male,Entertainment,Mass Customer,New South Wales,23,5101.549999999999
+1330,Gery,38,Male,Missing,Affluent Customer,Victoria,20,5101.120000000001
+2202,Diannne,46,Female,Financial Services,Affluent Customer,New South Wales,46,5090.61
+1726,Mariette,50,Female,Financial Services,High Net Worth,New South Wales,41,5084.42
+1528,Ranee,39,Female,Manufacturing,High Net Worth,New South Wales,78,5083.41
+2761,Agathe,62,Female,Financial Services,Mass Customer,New South Wales,78,5082.02
+815,Caryn,49,Female,Manufacturing,Mass Customer,New South Wales,47,5081.3
+2308,Nancey,60,Female,Financial Services,Mass Customer,Victoria,52,5077.969999999999
+2149,Lana,45,Female,Missing,High Net Worth,New South Wales,26,5077.099999999999
+1332,Garek,45,Male,Missing,Mass Customer,Victoria,87,5075.61
+1670,Gisella,45,Female,Retail,Mass Customer,New South Wales,30,5073.96
+724,Heinrik,48,Male,Financial Services,Mass Customer,New South Wales,7,5073.2699999999995
+765,Valeria,39,Female,Retail,Affluent Customer,Victoria,50,5070.62
+769,Cameron,62,Male,IT,Mass Customer,New South Wales,65,5070.24
+360,Atalanta,67,Female,Property,Mass Customer,New South Wales,64,5070.23
+1179,Kerry,35,Male,Financial Services,High Net Worth,Queensland,56,5068.4400000000005
+3283,Rowe,44,Female,Property,Mass Customer,New South Wales,46,5058.900000000001
+2888,Hamel,61,Male,IT,High Net Worth,New South Wales,37,5055.73
+2294,Skipton,36,Male,Manufacturing,Mass Customer,Queensland,25,5050.26
+3057,Mel,47,Female,Missing,Mass Customer,New South Wales,96,5049.14
+1021,Elvis,46,Male,Retail,High Net Worth,New South Wales,16,5048.26
+2850,Andie,51,Female,Missing,Mass Customer,New South Wales,74,5043.07
+1779,Krishnah,27,Male,Argiculture,Affluent Customer,Victoria,55,5042.0
+2553,Buddy,42,Male,Missing,High Net Worth,Queensland,42,5041.296097558137
+3103,Shaylah,70,Female,Retail,Mass Customer,Queensland,5,5040.88
+1157,Saunder,49,Male,Health,Affluent Customer,New South Wales,69,5037.46
+3300,Quintus,62,Male,Retail,Mass Customer,New South Wales,47,5037.253048779068
+1802,Lizzie,50,Female,Manufacturing,Mass Customer,Queensland,3,5035.8
+3374,Joann,64,Female,Manufacturing,Mass Customer,New South Wales,77,5034.57
+147,Rea,50,Female,Health,Mass Customer,New South Wales,32,5034.16
+1272,Nettie,38,Female,Manufacturing,Affluent Customer,Queensland,2,5029.13
+692,Goraud,36,Male,Property,Mass Customer,New South Wales,42,5027.49
+419,Chrissie,42,Female,Manufacturing,Affluent Customer,Queensland,34,5027.37
+605,Bart,51,Male,Manufacturing,Mass Customer,New South Wales,13,5025.639999999999
+1102,Stephana,47,Female,Manufacturing,Affluent Customer,New South Wales,16,5025.4400000000005
+392,Brandyn,45,Male,Property,Mass Customer,Victoria,38,5025.3099999999995
+1792,Dunstan,35,Male,Financial Services,Mass Customer,New South Wales,1,5020.67
+399,Nickie,47,Male,Manufacturing,Affluent Customer,Queensland,26,5020.5
+1881,Gherardo,66,Male,Missing,Affluent Customer,New South Wales,61,5018.9800000000005
+2986,Ettore,43,Male,Financial Services,Mass Customer,New South Wales,60,5017.740000000001
+1451,Courtney,46,Female,Argiculture,Mass Customer,New South Wales,32,5017.33
+968,Wayne,68,Male,IT,High Net Worth,New South Wales,96,5014.623048779069
+1232,Stillmann,64,Male,Property,Affluent Customer,Queensland,83,5011.9
+1472,Demeter,59,Female,Financial Services,Mass Customer,New South Wales,3,5011.4
+1477,Leo,0,Unknown,Financial Services,Mass Customer,New South Wales,42,5007.94
+2057,Elianora,64,Female,Manufacturing,Affluent Customer,Victoria,99,5006.98
+371,Pernell,69,Male,Financial Services,Mass Customer,Victoria,7,5004.52
+1443,Angela,37,Female,Financial Services,Affluent Customer,New South Wales,47,5004.26
+312,Garek,65,Male,Financial Services,Affluent Customer,New South Wales,44,5001.71
+3181,Ferd,47,Male,Financial Services,High Net Worth,New South Wales,39,5001.0
+1224,Aundrea,46,Female,Manufacturing,Mass Customer,New South Wales,9,4988.3099999999995
+498,Emmalee,45,Female,Manufacturing,High Net Worth,New South Wales,58,4982.410000000001
+75,Dollie,45,Female,Property,Mass Customer,New South Wales,28,4979.94
+1788,Anna-diana,59,Female,Financial Services,High Net Worth,New South Wales,79,4979.39
+1825,Arv,56,Male,Financial Services,Mass Customer,Victoria,82,4977.7699999999995
+1748,Skell,67,Male,Manufacturing,Mass Customer,Queensland,83,4973.950000000001
+1571,Tadeas,43,Male,Health,Mass Customer,New South Wales,19,4968.780000000001
+404,Sinclair,28,Male,Financial Services,Affluent Customer,New South Wales,92,4965.7
+1698,Christabella,52,Female,Health,Affluent Customer,New South Wales,58,4965.679999999999
+402,Berne,46,Male,Retail,Affluent Customer,New South Wales,9,4965.43
+2360,Karleen,49,Female,Financial Services,High Net Worth,New South Wales,0,4962.2
+1793,Hewett,34,Male,Financial Services,Mass Customer,Victoria,19,4960.360000000001
+2020,Portia,52,Female,Property,Affluent Customer,Victoria,50,4959.639999999999
+2247,Gweneth,28,Female,Retail,High Net Worth,New South Wales,17,4957.3
+1693,Ring,58,Male,Health,Affluent Customer,Queensland,79,4956.610000000001
+3499,Shelton,44,Male,Manufacturing,Mass Customer,Queensland,29,4955.25
+2877,Vaughan,56,Male,Property,Affluent Customer,Queensland,59,4947.27
+3465,Hadria,45,Female,Manufacturing,High Net Worth,New South Wales,71,4946.67
+2053,Horatius,45,Male,Financial Services,Affluent Customer,Queensland,7,4941.179999999999
+2155,Fayth,59,Female,Missing,Mass Customer,Victoria,24,4940.24
+2310,Jed,53,Male,Missing,High Net Worth,New South Wales,12,4939.453048779069
+1400,Rikki,41,Female,Manufacturing,Affluent Customer,Queensland,51,4939.11
+1644,Gaby,54,Male,Health,Mass Customer,New South Wales,57,4938.15
+703,Ethelda,57,Female,Property,Mass Customer,New South Wales,66,4928.8
+283,Sari,32,Female,Retail,Mass Customer,Queensland,34,4926.57
+62,Sorcha,44,Female,IT,Mass Customer,New South Wales,38,4920.88
+3296,Leontyne,49,Female,Financial Services,Affluent Customer,New South Wales,78,4920.72
+2620,Henderson,24,Male,Manufacturing,Mass Customer,New South Wales,26,4919.55
+877,Didi,35,Female,Financial Services,Mass Customer,New South Wales,92,4918.87
+3126,Bondon,37,Male,Financial Services,High Net Worth,Victoria,7,4916.639999999999
+3105,Bryn,58,Male,Health,Mass Customer,Queensland,88,4916.08
+486,Prudi,68,Female,Manufacturing,Affluent Customer,Victoria,0,4915.7699999999995
+2189,Thedric,25,Male,Financial Services,High Net Worth,Queensland,43,4914.08
+247,Kristal,40,Female,Financial Services,High Net Worth,New South Wales,62,4913.16
+97,Arne,44,Male,Financial Services,Mass Customer,New South Wales,16,4911.21
+1926,Stefano,66,Male,Financial Services,High Net Worth,Queensland,72,4911.09
+2740,Godiva,60,Female,Financial Services,Affluent Customer,New South Wales,61,4905.530000000001
+94,Wallache,49,Male,Manufacturing,Mass Customer,New South Wales,33,4902.21
+934,Marcellus,27,Male,Manufacturing,Mass Customer,New South Wales,76,4899.599999999999
+2815,Emery,69,Male,Health,Mass Customer,Victoria,50,4895.82
+2594,Sigismond,26,Male,Manufacturing,Mass Customer,New South Wales,90,4895.55
+719,Pattin,70,Male,Retail,Mass Customer,Queensland,2,4895.033048779069
+3315,Ninnette,29,Female,Property,Mass Customer,Victoria,77,4892.17
+1595,Kora,47,Female,Financial Services,High Net Worth,Victoria,15,4891.75
+790,Yvonne,55,Female,Missing,Affluent Customer,Victoria,22,4889.11
+1158,Butch,38,Male,Missing,Mass Customer,Victoria,85,4888.97
+2210,Kirby,38,Male,Health,High Net Worth,Victoria,16,4888.71
+144,Jory,0,Unknown,IT,Mass Customer,New South Wales,71,4888.02
+3157,Hurlee,26,Male,Retail,Mass Customer,New South Wales,46,4886.130000000001
+1820,Yard,27,Male,IT,Affluent Customer,New South Wales,12,4883.79
+1378,Ellie,45,Female,Property,Affluent Customer,Victoria,36,4881.55
+2528,Cassie,45,Male,Financial Services,Affluent Customer,Queensland,81,4870.35
+893,Gibby,40,Male,IT,Mass Customer,New South Wales,97,4868.870000000001
+1787,Tull,47,Male,Retail,High Net Worth,Victoria,2,4865.49
+2701,Ileana,63,Female,Health,Affluent Customer,Victoria,13,4863.469999999999
+1599,Ozzy,24,Male,Missing,Affluent Customer,New South Wales,65,4855.5
+51,Fidelio,64,Male,Retail,Mass Customer,Queensland,68,4855.400000000001
+1760,Kelsy,57,Female,Health,High Net Worth,Victoria,68,4851.053048779069
+2465,Paloma,39,Female,Missing,Mass Customer,New South Wales,31,4849.473048779068
+760,Shamus,45,Male,Missing,Mass Customer,New South Wales,46,4847.049999999999
+2353,Lyn,45,Male,Health,Affluent Customer,New South Wales,93,4842.52
+739,Arnie,59,Male,Manufacturing,Mass Customer,Victoria,36,4842.2
+1068,Frazer,28,Male,Health,Mass Customer,New South Wales,5,4841.71
+2885,Minnie,54,Female,Financial Services,Mass Customer,New South Wales,70,4839.410000000001
+1137,Jermayne,46,Male,Missing,Mass Customer,Victoria,46,4837.19
+1627,Vladimir,62,Male,Entertainment,Affluent Customer,Victoria,44,4834.08
+1905,Corabelle,70,Female,Manufacturing,Affluent Customer,New South Wales,21,4833.73
+3381,Bruce,30,Male,Missing,Mass Customer,Victoria,26,4829.4
+2170,Dewitt,60,Male,Manufacturing,Affluent Customer,New South Wales,27,4828.54
+2364,Fielding,28,Male,Missing,Mass Customer,Queensland,19,4826.5
+1980,Kenneth,31,Male,Health,High Net Worth,New South Wales,97,4822.39
+3258,Hettie,45,Female,Retail,Mass Customer,New South Wales,77,4821.9
+938,Corabelle,27,Female,Retail,Mass Customer,Victoria,18,4819.03
+1971,Mariel,25,Female,Manufacturing,Mass Customer,Victoria,49,4812.99
+1806,Gil,0,Unknown,IT,Mass Customer,Queensland,95,4810.5
+534,Madel,69,Female,Missing,Mass Customer,New South Wales,2,4809.950000000001
+3225,Durante,43,Male,Health,Mass Customer,New South Wales,19,4805.02
+996,Aura,0,Unknown,IT,Mass Customer,New South Wales,67,4803.1
+2385,Gaultiero,65,Male,Health,Mass Customer,Victoria,70,4797.13
+875,Caryl,24,Male,Financial Services,Mass Customer,Victoria,34,4796.959999999999
+1557,Efren,48,Male,Financial Services,Mass Customer,New South Wales,64,4795.51
+1210,Shandie,0,Unknown,IT,Mass Customer,New South Wales,81,4795.243048779069
+171,Halli,53,Female,Manufacturing,Mass Customer,New South Wales,62,4794.623048779069
+2630,Jonathon,45,Male,Retail,Mass Customer,New South Wales,76,4794.58
+3145,Gar,45,Male,Financial Services,High Net Worth,New South Wales,17,4793.193048779069
+2111,Ellis,50,Male,Property,Affluent Customer,New South Wales,98,4790.820000000001
+3074,Tracie,54,Male,Health,Mass Customer,New South Wales,31,4781.58
+963,Valery,55,Female,Missing,High Net Worth,New South Wales,56,4779.13
+3367,Melisse,23,Female,Entertainment,Mass Customer,Victoria,75,4779.07
+793,Kissie,34,Female,Financial Services,High Net Worth,New South Wales,97,4778.329999999999
+2587,Maren,44,Female,Missing,Affluent Customer,Queensland,76,4776.43
+833,Wadsworth,28,Male,Missing,High Net Worth,New South Wales,9,4776.1
+2880,Ingra,56,Male,Health,Mass Customer,New South Wales,43,4772.56
+2292,Christie,25,Female,Health,Mass Customer,New South Wales,17,4768.849999999999
+44,Neron,42,Male,Entertainment,Affluent Customer,Queensland,63,4768.28
+2182,Symon,56,Male,Entertainment,High Net Worth,Queensland,47,4766.82
+3039,Coralie,55,Female,Financial Services,Affluent Customer,New South Wales,52,4762.49
+2683,Myrta,58,Female,Missing,Affluent Customer,Queensland,81,4760.68
+1308,Andrey,47,Male,Missing,Affluent Customer,Queensland,34,4757.959999999999
+2727,Kim,35,Female,Financial Services,High Net Worth,Queensland,88,4757.21
+2771,Jamie,54,Female,Retail,Affluent Customer,New South Wales,6,4754.2
+866,Stanislaus,50,Male,Missing,Affluent Customer,New South Wales,28,4753.84
+3361,Riva,55,Female,Property,Mass Customer,New South Wales,68,4752.7
+310,Myranda,38,Female,Financial Services,Mass Customer,New South Wales,0,4744.19
+867,Lura,50,Female,Missing,Mass Customer,Victoria,12,4743.7
+454,Eugenie,0,Unknown,Health,Affluent Customer,Queensland,58,4738.75
+2455,Kathe,46,Female,Manufacturing,Mass Customer,Queensland,64,4737.68
+2459,Jeanna,37,Female,Manufacturing,High Net Worth,Queensland,67,4737.3
+1293,Vidovic,43,Male,IT,Mass Customer,Queensland,89,4736.69
+2284,Ola,49,Female,Telecommunications,High Net Worth,Victoria,83,4735.67
+2188,Zonnya,51,Female,Missing,Mass Customer,Queensland,85,4735.32
+3153,Hannis,50,Female,Financial Services,High Net Worth,New South Wales,87,4732.48
+1678,Dale,46,Female,Financial Services,High Net Worth,New South Wales,20,4732.32
+844,Tome,45,Male,Financial Services,High Net Worth,New South Wales,13,4730.32
+2951,Duffy,46,Male,Financial Services,High Net Worth,Victoria,13,4729.7300000000005
+435,Jerome,24,Male,Telecommunications,Mass Customer,New South Wales,5,4727.75
+365,Romona,47,Female,Property,High Net Worth,Queensland,98,4724.04
+2889,Ximenes,37,Male,Missing,Mass Customer,Victoria,55,4722.62
+516,Craggy,65,Male,Financial Services,Mass Customer,New South Wales,23,4722.21
+2017,Ezri,28,Male,Financial Services,Affluent Customer,New South Wales,67,4721.62
+2805,Laverna,31,Female,Manufacturing,High Net Worth,New South Wales,0,4721.49
+2345,Arden,37,Female,Retail,Affluent Customer,Queensland,50,4719.95
+2606,Addi,45,Female,Manufacturing,High Net Worth,New South Wales,56,4718.429999999999
+1339,Mariam,45,Female,IT,High Net Worth,Victoria,82,4713.219999999999
+1937,Renaud,49,Male,Health,Mass Customer,New South Wales,69,4712.24
+2377,Kristien,25,Female,IT,High Net Worth,Victoria,29,4707.549999999999
+738,Bunnie,39,Female,Argiculture,Mass Customer,Queensland,51,4706.86
+1086,Ezechiel,34,Male,Property,Mass Customer,Victoria,84,4705.65
+1665,Witty,46,Male,Telecommunications,Mass Customer,New South Wales,48,4703.873048779069
+2140,Hilario,47,Male,Telecommunications,High Net Worth,Queensland,59,4700.15
+41,Basilius,47,Male,Health,Mass Customer,Victoria,64,4698.89
+1030,Nariko,61,Female,Health,Mass Customer,Victoria,9,4698.6
+2820,Tristam,44,Male,Manufacturing,Affluent Customer,New South Wales,44,4695.9400000000005
+1838,Jobina,59,Female,Financial Services,Affluent Customer,Victoria,14,4691.450000000001
+1006,Norbert,46,Male,Telecommunications,Affluent Customer,Victoria,15,4687.53
+1471,Berri,45,Female,Financial Services,Mass Customer,New South Wales,88,4685.84
+235,Leona,47,Female,Health,Mass Customer,New South Wales,30,4685.82
+1880,Garrett,51,Male,Missing,High Net Worth,New South Wales,50,4685.53
+3173,Angelo,22,Male,Health,Mass Customer,Victoria,55,4681.849999999999
+3371,Josey,46,Female,Retail,Mass Customer,Queensland,56,4677.6900000000005
+2598,Lindsay,43,Male,Manufacturing,Affluent Customer,New South Wales,23,4676.043048779069
+2368,Rowe,30,Female,Manufacturing,Mass Customer,New South Wales,98,4675.969999999999
+1942,Abe,36,Male,Financial Services,High Net Worth,New South Wales,0,4675.1900000000005
+104,Odille,45,Female,Health,Mass Customer,Queensland,40,4672.923048779069
+2339,Damien,65,Male,Property,Affluent Customer,New South Wales,3,4669.900000000001
+3415,Alberik,60,Male,Property,High Net Worth,New South Wales,43,4669.3
+1706,Slade,62,Male,Financial Services,High Net Worth,New South Wales,32,4666.64
+3080,Christoforo,65,Male,Financial Services,High Net Worth,Victoria,87,4665.71
+3138,Wait,52,Male,Financial Services,Mass Customer,New South Wales,34,4665.023048779069
+2836,Matilda,60,Female,Health,Mass Customer,New South Wales,80,4664.400000000001
+1568,Bellanca,43,Female,Manufacturing,Mass Customer,New South Wales,78,4662.843048779068
+604,Mella,25,Female,IT,Affluent Customer,New South Wales,72,4661.959999999999
+695,Kevan,46,Male,Health,High Net Worth,New South Wales,36,4659.0
+2603,Mercy,61,Female,Financial Services,High Net Worth,Victoria,44,4657.99
+3014,Terrijo,22,Female,Missing,High Net Worth,New South Wales,59,4656.84
+2938,Richardo,23,Male,Argiculture,Affluent Customer,Queensland,79,4655.53
+3221,Brigid,64,Female,Property,High Net Worth,Queensland,59,4653.273048779069
+2221,Tye,28,Male,Argiculture,Affluent Customer,Queensland,80,4651.259999999999
+244,Germayne,49,Male,Retail,Affluent Customer,Victoria,57,4647.563048779069
+2097,Web,35,Male,Telecommunications,Mass Customer,Queensland,38,4647.42
+396,Peria,56,Female,Telecommunications,High Net Worth,New South Wales,98,4647.13
+2909,Jayme,44,Female,Entertainment,High Net Worth,Victoria,31,4644.23
+1852,Darby,45,Female,Manufacturing,Affluent Customer,Victoria,22,4641.27
+1351,Lorettalorna,0,Unknown,IT,High Net Worth,Victoria,32,4638.66
+897,Pris,54,Female,Manufacturing,Mass Customer,New South Wales,25,4638.593048779068
+2367,Lorne,66,Male,Manufacturing,Mass Customer,Victoria,40,4636.8
+2518,Krystalle,69,Female,Missing,Mass Customer,Victoria,53,4636.719999999999
+2595,Land,46,Male,Missing,Affluent Customer,Queensland,56,4631.38
+1115,Merola,53,Female,Missing,High Net Worth,New South Wales,33,4631.23
+2891,Renae,36,Female,Manufacturing,High Net Worth,New South Wales,5,4629.95
+158,Hamlin,39,Male,Missing,Affluent Customer,New South Wales,99,4627.35
+270,Auberta,53,Female,Missing,Mass Customer,Victoria,38,4625.21
+2697,Klarika,0,Unknown,IT,High Net Worth,New South Wales,70,4623.16
+2536,Aigneis,59,Female,Health,Mass Customer,New South Wales,71,4622.41
+2030,Xymenes,62,Male,Property,High Net Worth,Victoria,3,4622.34
+700,Josias,33,Male,Financial Services,Mass Customer,New South Wales,67,4618.11
+1694,Tonnie,64,Male,IT,Mass Customer,Victoria,11,4611.39
+2853,Clarence,38,Male,Retail,High Net Worth,New South Wales,65,4610.6
+3337,Brendan,47,Male,Argiculture,Mass Customer,Queensland,58,4608.0
+3223,Tiffi,0,Unknown,IT,Mass Customer,New South Wales,44,4605.4
+2007,Gail,53,Male,Manufacturing,Mass Customer,New South Wales,8,4601.8099999999995
+829,Byran,22,Male,Financial Services,High Net Worth,Victoria,84,4600.24
+2527,Arly,43,Female,Missing,Affluent Customer,Victoria,60,4600.01
+743,Pattin,42,Male,Financial Services,Mass Customer,New South Wales,89,4599.29
+377,Levy,24,Male,Argiculture,Mass Customer,New South Wales,65,4598.36304877907
+395,Penn,47,Male,Retail,High Net Worth,Victoria,28,4597.740000000001
+627,Shanta,53,Female,Missing,High Net Worth,Queensland,24,4597.2699999999995
+2947,Standford,46,Male,Manufacturing,Mass Customer,Queensland,75,4595.07
+490,Lida,31,Female,Argiculture,Mass Customer,Victoria,44,4593.01
+2340,Joachim,45,Male,Health,Mass Customer,Queensland,33,4585.400000000001
+2601,Morgana,48,Female,Financial Services,Affluent Customer,New South Wales,48,4582.12
+712,Norine,62,Female,IT,Mass Customer,New South Wales,22,4581.46
+576,Bart,46,Male,Retail,Mass Customer,New South Wales,98,4580.35
+2099,Mikel,64,Male,Financial Services,High Net Worth,New South Wales,40,4576.76
+1376,Pail,57,Male,Health,Mass Customer,Victoria,89,4576.53
+2717,Frederic,42,Male,Health,Mass Customer,New South Wales,31,4576.02
+1110,Lazar,32,Male,Retail,High Net Worth,Victoria,73,4574.099999999999
+1845,Pascal,45,Male,Financial Services,Mass Customer,New South Wales,34,4572.889999999999
+882,Esmaria,58,Female,Property,Mass Customer,New South Wales,59,4571.93
+61,Kacey,64,Female,Property,High Net Worth,New South Wales,47,4566.113048779069
+1449,Ashly,56,Female,Missing,High Net Worth,New South Wales,38,4565.33
+2319,David,38,Male,Entertainment,High Net Worth,New South Wales,63,4564.900000000001
+1397,Dimitri,44,Male,Manufacturing,Mass Customer,Victoria,29,4563.950000000001
+1024,Rhodia,31,Female,Health,High Net Worth,Victoria,17,4560.5599999999995
+2812,Molli,22,Female,Missing,High Net Worth,New South Wales,16,4558.55
+2572,Sheila,43,Female,Financial Services,Mass Customer,New South Wales,30,4558.42
+99,Reggie,25,Male,Financial Services,Mass Customer,New South Wales,97,4557.65
+1459,Haydon,25,Male,Manufacturing,Mass Customer,New South Wales,89,4557.6
+1447,Renaldo,27,Male,Manufacturing,Mass Customer,New South Wales,29,4553.860000000001
+40,Tomasine,42,Female,Manufacturing,Affluent Customer,New South Wales,91,4552.099999999999
+135,Rosalia,48,Female,IT,Mass Customer,Victoria,18,4549.5
+66,Anselm,21,Male,Argiculture,High Net Worth,New South Wales,46,4549.2
+1252,Les,58,Male,Manufacturing,Mass Customer,Queensland,46,4548.3099999999995
+1916,Redd,28,Male,Retail,High Net Worth,New South Wales,71,4545.8
+2120,Clare,26,Male,Manufacturing,Mass Customer,New South Wales,80,4543.18
+1979,Ephrem,63,Male,Manufacturing,Mass Customer,Queensland,98,4541.84
+1218,Marlie,41,Female,Missing,Mass Customer,Victoria,12,4540.57
+2557,Lian,45,Female,Missing,Mass Customer,Victoria,37,4540.47
+3169,Maxim,59,Male,IT,Mass Customer,Victoria,96,4539.950000000001
+295,Lena,59,Female,Missing,Mass Customer,Queensland,64,4539.9
+381,Leesa,27,Female,Missing,Affluent Customer,New South Wales,99,4534.240000000001
+820,Cecilia,46,Female,Financial Services,High Net Worth,New South Wales,12,4534.03
+2655,York,57,Male,Manufacturing,Mass Customer,Queensland,56,4527.9400000000005
+587,Adolphus,57,Male,Health,Mass Customer,Victoria,43,4527.643048779069
+1307,Emlyn,53,Female,Health,High Net Worth,Queensland,73,4526.73
+424,Dennie,45,Male,Health,High Net Worth,Victoria,77,4525.1900000000005
+2413,Abbey,80,Male,Manufacturing,High Net Worth,Victoria,27,4523.23
+16,Harlin,46,Male,Missing,Mass Customer,Victoria,38,4521.839999999999
+2861,Cecelia,49,Female,Financial Services,Mass Customer,Queensland,4,4518.27
+1818,Katha,56,Female,Entertainment,Mass Customer,Victoria,64,4516.55
+1152,Humfrid,25,Male,Financial Services,Mass Customer,Queensland,47,4516.14
+1837,Tirrell,50,Male,Manufacturing,Mass Customer,New South Wales,9,4515.25
+1951,Rockie,23,Male,Manufacturing,Mass Customer,Victoria,93,4514.84
+1181,Brita,45,Female,Argiculture,Mass Customer,Queensland,2,4513.0599999999995
+2847,Noreen,47,Female,Health,Mass Customer,New South Wales,50,4509.110000000001
+1860,Holly-anne,47,Female,Manufacturing,Mass Customer,Queensland,4,4503.35
+1728,Pryce,46,Male,Financial Services,Affluent Customer,New South Wales,41,4502.643048779069
+3007,Tudor,50,Male,Manufacturing,Mass Customer,New South Wales,38,4500.3
+864,Regen,53,Male,Retail,High Net Worth,Queensland,6,4499.38
+1095,Emelda,65,Female,Health,Mass Customer,New South Wales,2,4498.34
+1446,Gabriello,36,Male,Manufacturing,Mass Customer,Victoria,51,4495.52
+3451,Ruprecht,53,Male,Missing,High Net Worth,New South Wales,88,4489.09
+1646,Emmye,29,Female,Financial Services,Mass Customer,New South Wales,39,4487.52
+1049,Fraser,27,Male,Property,Mass Customer,Victoria,35,4486.320000000001
+737,Sisely,40,Female,Missing,Mass Customer,Queensland,75,4480.09
+2283,Gaspar,69,Male,Missing,High Net Worth,Victoria,44,4474.629999999999
+906,Cammy,25,Male,Financial Services,High Net Worth,Victoria,73,4473.87
+2268,Wilhelmina,58,Female,Health,Mass Customer,Victoria,66,4473.32
+417,Fernandina,52,Female,Argiculture,Mass Customer,Victoria,37,4467.99304877907
+3389,Margo,51,Female,Missing,Affluent Customer,Victoria,27,4462.32
+2311,Addi,34,Female,Health,Mass Customer,New South Wales,49,4460.120000000001
+919,Grove,36,Male,Health,Mass Customer,New South Wales,48,4458.889999999999
+2033,Mar,52,Male,Health,High Net Worth,New South Wales,36,4458.72
+770,Zara,39,Female,IT,High Net Worth,Victoria,10,4457.4800000000005
+1848,Dev,47,Male,Manufacturing,Mass Customer,New South Wales,22,4456.95
+2449,Oates,41,Male,Missing,Affluent Customer,Victoria,54,4455.63
+357,Betta,54,Female,Missing,Affluent Customer,Victoria,21,4455.49
+1062,Tish,48,Female,Missing,Mass Customer,New South Wales,32,4450.85
+3267,Gerri,36,Male,Property,High Net Worth,New South Wales,20,4449.68
+546,Jorie,42,Female,Health,Mass Customer,New South Wales,80,4449.53
+1743,Pall,42,Male,Manufacturing,Affluent Customer,Queensland,80,4448.07
+634,Melonie,45,Female,Manufacturing,Mass Customer,New South Wales,35,4445.37
+65,Yale,47,Male,Financial Services,Affluent Customer,New South Wales,21,4441.61
+1765,Sibella,56,Female,Missing,High Net Worth,Queensland,48,4439.4800000000005
+2288,Cirillo,59,Male,Manufacturing,High Net Worth,Victoria,63,4438.469999999999
+1834,Otes,46,Male,Financial Services,High Net Worth,Queensland,84,4434.93
+2474,Chrysa,43,Female,Argiculture,High Net Worth,Queensland,59,4434.493048779069
+3421,Ronalda,61,Female,Health,Affluent Customer,New South Wales,60,4431.253048779069
+109,Cody,45,Male,Missing,Affluent Customer,New South Wales,16,4430.66
+3288,Fair,0,Unknown,IT,High Net Worth,New South Wales,47,4430.64
+1639,Marna,61,Female,Manufacturing,Mass Customer,New South Wales,9,4428.51
+772,Lorianna,25,Female,Entertainment,Mass Customer,New South Wales,12,4423.8
+2570,Hirsch,46,Male,Financial Services,Mass Customer,Queensland,13,4420.450000000001
+636,Alejandrina,52,Female,Missing,Mass Customer,New South Wales,42,4418.9
+3462,Jehanna,66,Female,Health,High Net Worth,Victoria,96,4416.71
+223,Ossie,40,Male,Missing,Affluent Customer,New South Wales,13,4410.07
+1933,Ephraim,43,Male,Manufacturing,Affluent Customer,New South Wales,72,4404.77
+352,Orrin,44,Male,Retail,Mass Customer,Queensland,12,4404.4
+3477,Jaquelin,27,Female,Financial Services,Affluent Customer,New South Wales,90,4401.92
+509,Tobe,44,Male,Financial Services,Affluent Customer,Queensland,64,4389.7300000000005
+2427,Myrta,25,Female,Missing,High Net Worth,New South Wales,20,4388.13
+3383,Dane,41,Male,Financial Services,Affluent Customer,Victoria,47,4387.16
+2648,Saunder,25,Male,Missing,Affluent Customer,Queensland,60,4384.85
+2940,Wilek,53,Male,Missing,Affluent Customer,Queensland,83,4384.62
+1870,Alikee,50,Female,Missing,Affluent Customer,Queensland,24,4382.2
+668,Ebony,57,Female,Health,Mass Customer,New South Wales,61,4375.9800000000005
+2627,Hildegaard,52,Female,Retail,Mass Customer,New South Wales,7,4375.27
+201,Salem,57,Male,Manufacturing,Mass Customer,New South Wales,45,4369.02
+1770,Chrysler,28,Female,Missing,Mass Customer,New South Wales,63,4366.04
+1005,Kalila,56,Female,IT,High Net Worth,New South Wales,94,4365.25
+1303,Nollie,51,Male,Argiculture,Mass Customer,Queensland,64,4352.37
+2355,Shaughn,30,Male,Manufacturing,Mass Customer,New South Wales,87,4351.82
+2605,Had,58,Male,Health,High Net Worth,Victoria,50,4346.57
+3170,Bethanne,55,Female,Entertainment,Mass Customer,Victoria,67,4344.71
+3178,Gan,52,Male,Retail,Mass Customer,Queensland,21,4339.76
+13,Gabriele,68,Male,Financial Services,High Net Worth,Victoria,38,4337.38
+1379,Lou,34,Female,Financial Services,Mass Customer,Victoria,63,4337.3099999999995
+47,Matthew,31,Male,Health,Affluent Customer,New South Wales,51,4332.19
+1932,Sybila,46,Female,Entertainment,Affluent Customer,Victoria,98,4328.469999999999
+339,Nanny,43,Female,Health,Mass Customer,New South Wales,56,4327.24
+24,Kim,46,Female,Argiculture,Mass Customer,New South Wales,55,4326.743048779069
+1641,Vasily,51,Male,Financial Services,Mass Customer,Victoria,29,4326.200000000001
+3447,Linell,46,Female,Financial Services,High Net Worth,Victoria,43,4324.389999999999
+2096,Torrie,54,Female,Telecommunications,High Net Worth,New South Wales,74,4320.42
+1594,Rolando,42,Male,Property,Mass Customer,New South Wales,62,4320.299999999999
+599,Ernestus,0,Unknown,Financial Services,Mass Customer,Victoria,48,4319.139999999999
+1169,Kessiah,56,Female,Financial Services,Mass Customer,New South Wales,33,4318.2
+1184,Auberta,55,Female,Health,Mass Customer,New South Wales,89,4314.89
+3307,Portia,45,Female,Health,High Net Worth,Queensland,96,4311.99
+2955,Stuart,33,Male,Financial Services,High Net Worth,New South Wales,74,4306.13
+3220,Hunt,51,Male,Manufacturing,Affluent Customer,New South Wales,53,4304.219999999999
+220,Jeniffer,69,Female,Manufacturing,High Net Worth,Victoria,79,4304.11
+2543,Horacio,24,Male,Missing,Affluent Customer,New South Wales,41,4303.86
+3478,Hartwell,37,Male,Health,Mass Customer,New South Wales,54,4297.85
+2552,Allard,50,Male,Manufacturing,Affluent Customer,New South Wales,1,4292.35
+1676,Ozzy,48,Male,Health,Mass Customer,New South Wales,63,4291.110000000001
+3262,Maynord,64,Male,Entertainment,Mass Customer,Queensland,65,4290.81
+3375,Thorsten,30,Male,Financial Services,High Net Worth,New South Wales,37,4285.9400000000005
+849,Sylvan,54,Male,Entertainment,Mass Customer,Queensland,72,4284.21
+2561,Elga,60,Female,Manufacturing,High Net Worth,Queensland,44,4283.02
+2014,Sandye,33,Female,Manufacturing,Mass Customer,New South Wales,49,4281.32
+3104,Diahann,29,Female,Property,Mass Customer,Queensland,19,4281.263048779068
+2152,Junina,55,Female,Manufacturing,Mass Customer,Victoria,40,4281.08
+3186,Rora,26,Female,Missing,Mass Customer,Victoria,22,4279.33
+640,Galvin,48,Male,Entertainment,High Net Worth,New South Wales,12,4278.6
+2599,Pauly,69,Female,Manufacturing,Mass Customer,Victoria,9,4275.0
+2297,Pauletta,52,Female,Manufacturing,Affluent Customer,Queensland,16,4274.88
+1483,Beth,52,Female,Telecommunications,Mass Customer,New South Wales,55,4273.54
+986,Barnard,29,Male,Manufacturing,Mass Customer,Queensland,3,4272.969999999999
+1249,Tabb,56,Male,Telecommunications,Mass Customer,Queensland,11,4269.85
+1411,Katrina,29,Female,Health,Mass Customer,New South Wales,24,4268.32
+2154,Bird,43,Female,Manufacturing,High Net Worth,New South Wales,86,4268.17
+1101,Haily,55,Female,Missing,Mass Customer,New South Wales,76,4267.42
+2858,Benedicto,21,Male,Missing,Mass Customer,New South Wales,4,4266.453048779069
+1505,Cristian,30,Male,Financial Services,Mass Customer,New South Wales,90,4263.17
+865,Germain,58,Female,Telecommunications,Mass Customer,Queensland,73,4261.0
+1516,Ham,56,Male,IT,Affluent Customer,New South Wales,6,4256.32
+2130,Evangelina,33,Female,Property,High Net Worth,New South Wales,95,4253.77
+3016,Forster,38,Male,Financial Services,High Net Worth,New South Wales,25,4253.5
+3268,Estelle,37,Female,Manufacturing,Mass Customer,Victoria,93,4250.46
+49,Nolly,29,Male,Missing,Affluent Customer,New South Wales,63,4248.68
+794,Scott,68,Male,Financial Services,Affluent Customer,New South Wales,99,4248.67
+2640,Curran,45,Male,Missing,Affluent Customer,Victoria,75,4246.5599999999995
+1643,Manda,62,Female,Retail,Mass Customer,New South Wales,13,4244.320000000001
+1817,Jozef,48,Male,Missing,High Net Worth,Victoria,32,4244.1
+577,Nadean,67,Female,Property,Mass Customer,Victoria,41,4242.34
+2638,Moritz,46,Male,IT,Mass Customer,New South Wales,1,4241.453048779069
+2602,Jessamine,46,Female,Health,Mass Customer,New South Wales,46,4240.08
+1964,Cara,59,Female,Financial Services,Affluent Customer,Queensland,60,4239.32
+3304,Tymothy,42,Male,Missing,Mass Customer,Queensland,43,4236.21
+1123,Dominick,61,Male,Property,Mass Customer,New South Wales,50,4235.799999999999
+3461,Nigel,61,Male,Manufacturing,Affluent Customer,New South Wales,28,4233.2
+2793,Mead,52,Male,Health,Affluent Customer,Victoria,77,4232.85
+21,Mile,43,Male,Manufacturing,Affluent Customer,New South Wales,74,4229.41
+788,Gregg,59,Male,Health,Mass Customer,New South Wales,62,4228.66
+548,Georgie,0,Unknown,IT,High Net Worth,Queensland,84,4223.29
+3382,Burk,46,Male,Missing,High Net Worth,Victoria,90,4222.7699999999995
+648,Gardiner,45,Male,Financial Services,Mass Customer,Queensland,86,4222.63
+513,Kienan,0,Unknown,IT,Mass Customer,Victoria,30,4222.14
+119,Willey,42,Male,Missing,High Net Worth,Victoria,9,4217.24
+3298,Christine,0,Unknown,IT,Affluent Customer,Victoria,1,4214.38
+2213,Jesse,27,Female,Missing,Affluent Customer,New South Wales,70,4212.469999999999
+579,Cathlene,49,Female,Health,Mass Customer,New South Wales,89,4204.6
+166,Elston,68,Male,Manufacturing,Affluent Customer,Queensland,54,4197.44
+2257,Siward,46,Male,Entertainment,Mass Customer,New South Wales,27,4193.32
+2472,Mathias,34,Male,Health,High Net Worth,Victoria,99,4181.0
+3360,Joelie,60,Female,Health,Affluent Customer,New South Wales,77,4179.51
+3120,Lauree,44,Female,Health,Mass Customer,New South Wales,89,4179.11
+2361,Jeannette,69,Female,Missing,High Net Worth,Queensland,55,4178.450000000001
+2769,Trevor,45,Male,Manufacturing,Affluent Customer,New South Wales,31,4177.84
+1381,Ellary,38,Male,Manufacturing,Affluent Customer,Victoria,79,4177.610000000001
+469,Levi,27,Male,Financial Services,High Net Worth,New South Wales,91,4177.21
+528,Gayel,44,Female,Health,Mass Customer,New South Wales,10,4175.150000000001
+1147,Tate,55,Male,Entertainment,High Net Worth,New South Wales,71,4173.67
+2266,Jeth,25,Male,Retail,High Net Worth,New South Wales,74,4169.83
+912,Vince,55,Male,Retail,Mass Customer,New South Wales,37,4164.21
+2049,Jud,61,Male,Manufacturing,High Net Worth,New South Wales,21,4162.97
+2029,Charlie,31,Male,Manufacturing,Mass Customer,Queensland,10,4156.31
+1586,Madelena,38,Female,Manufacturing,High Net Worth,New South Wales,47,4154.0199999999995
+2859,Brandais,29,Female,Argiculture,High Net Worth,Queensland,98,4153.82
+736,Sansone,49,Male,Missing,High Net Worth,Victoria,41,4151.86
+1194,Audry,31,Female,Telecommunications,Affluent Customer,Queensland,69,4148.57
+3113,Wenonah,54,Female,Property,Mass Customer,New South Wales,52,4144.860000000001
+920,Stefano,47,Male,Health,Mass Customer,New South Wales,89,4144.19
+2195,Nevsa,36,Female,Financial Services,Affluent Customer,Queensland,94,4144.05
+2696,Isabelle,0,Unknown,Health,Mass Customer,Queensland,42,4142.87
+2656,Halli,64,Female,Missing,Mass Customer,Victoria,80,4142.75
+275,Dud,68,Male,Health,High Net Worth,New South Wales,7,4141.68
+1183,Joe,65,Male,Missing,Affluent Customer,Victoria,50,4140.91
+824,Fleurette,46,Female,Financial Services,Affluent Customer,Queensland,97,4137.780000000001
+2072,Margie,63,Female,Financial Services,Mass Customer,Victoria,30,4136.84
+2623,Zackariah,41,Male,Property,Mass Customer,New South Wales,42,4136.08
+2116,Wyndham,44,Male,Financial Services,Affluent Customer,Victoria,81,4128.629999999999
+3017,Jason,68,Male,Financial Services,Affluent Customer,Victoria,88,4124.12
+2304,Shelia,66,Female,Missing,Mass Customer,New South Wales,65,4121.780000000001
+3208,Jeanne,56,Female,Missing,High Net Worth,Victoria,53,4121.17
+2843,Lorain,55,Female,Financial Services,Affluent Customer,New South Wales,42,4117.49
+2712,Carissa,36,Female,Manufacturing,High Net Worth,New South Wales,0,4116.13
+1637,Timothee,54,Male,Manufacturing,High Net Worth,New South Wales,78,4115.36
+2851,Ulberto,48,Male,Entertainment,Affluent Customer,New South Wales,36,4113.78
+1298,Guglielmo,49,Male,Health,Mass Customer,Queensland,35,4113.36
+1358,Gerome,29,Male,Health,High Net Worth,Victoria,8,4113.04
+2335,Payton,0,Unknown,IT,Mass Customer,New South Wales,42,4112.98
+177,Ondrea,34,Female,Financial Services,High Net Worth,New South Wales,25,4108.599999999999
+2083,Karee,43,Female,Missing,Mass Customer,New South Wales,5,4106.379999999999
+1227,Carlina,34,Female,IT,Affluent Customer,New South Wales,63,4101.860000000001
+2632,Krishna,58,Male,Argiculture,Mass Customer,New South Wales,18,4100.59
+1903,Tucky,50,Male,Missing,High Net Worth,Victoria,8,4098.86
+1801,Bendix,47,Male,Manufacturing,Affluent Customer,Queensland,48,4098.59
+54,Loralyn,57,Female,Property,Mass Customer,New South Wales,2,4098.21
+407,Chryste,44,Female,Missing,High Net Worth,New South Wales,82,4096.06
+2404,Conney,63,Male,Retail,Mass Customer,New South Wales,13,4094.2730487790686
+1576,Reube,38,Male,Financial Services,Mass Customer,New South Wales,77,4091.663048779069
+211,Beitris,49,Female,Manufacturing,Mass Customer,New South Wales,6,4090.05
+495,Lucius,64,Male,Financial Services,Mass Customer,Victoria,91,4087.04
+308,Iver,40,Male,IT,High Net Worth,Victoria,2,4086.21
+1844,Amaleta,48,Female,Missing,Mass Customer,Victoria,71,4085.4800000000005
+1812,Daffi,64,Female,Health,Affluent Customer,New South Wales,20,4084.28
+3202,Garry,29,Male,Financial Services,Mass Customer,New South Wales,74,4083.3599999999997
+2529,Ben,69,Male,Manufacturing,High Net Worth,Victoria,81,4083.33
+3370,Brant,69,Male,Missing,High Net Worth,New South Wales,8,4078.8199999999997
+1849,Jess,65,Male,Retail,Mass Customer,Victoria,6,4077.26
+3413,Zulema,26,Female,Financial Services,Mass Customer,New South Wales,93,4076.1800000000003
+2281,Valaria,34,Female,Missing,High Net Worth,Victoria,56,4075.38
+1200,Hedda,49,Female,Entertainment,High Net Worth,Queensland,38,4075.17
+3394,Barde,49,Male,Health,Mass Customer,New South Wales,39,4073.2
+1567,Florri,52,Female,Missing,Mass Customer,New South Wales,18,4071.8199999999997
+886,Dawna,49,Female,Health,Mass Customer,New South Wales,53,4067.6500000000005
+180,Trisha,52,Female,Argiculture,Affluent Customer,Queensland,16,4065.35
+1946,Brannon,64,Male,Missing,Mass Customer,New South Wales,37,4063.82
+468,Valeria,49,Female,Property,High Net Worth,Victoria,11,4063.5899999999997
+1876,Borden,46,Male,Financial Services,Affluent Customer,New South Wales,16,4057.629999999999
+1882,Justin,59,Male,Manufacturing,Affluent Customer,New South Wales,86,4054.8500000000004
+2728,Imojean,64,Female,IT,High Net Worth,Victoria,55,4054.59
+311,Jaimie,66,Female,Health,High Net Worth,New South Wales,86,4054.4800000000005
+124,Kath,28,Female,Health,High Net Worth,Victoria,27,4054.25
+1116,Tori,49,Female,Health,Mass Customer,New South Wales,59,4053.92
+1074,Griswold,49,Male,Missing,High Net Worth,New South Wales,43,4053.6800000000003
+608,Alisun,43,Female,Retail,High Net Worth,Queensland,55,4050.11
+3373,Inna,32,Female,Health,Mass Customer,New South Wales,19,4048.46
+2005,Marina,45,Female,Manufacturing,High Net Worth,Victoria,41,4047.83
+1638,Zachery,31,Male,Financial Services,Mass Customer,Victoria,55,4046.88
+1891,Neville,33,Male,Retail,Mass Customer,New South Wales,6,4045.2000000000007
+499,Dalli,62,Male,Financial Services,Affluent Customer,Victoria,39,4043.5800000000004
+1609,Reginald,27,Male,Property,Mass Customer,New South Wales,64,4041.6000000000004
+704,Lindsay,25,Female,Health,Mass Customer,New South Wales,49,4034.46
+261,Marve,46,Male,Missing,Mass Customer,New South Wales,74,4033.1499999999996
+3253,Bernadine,33,Female,Financial Services,High Net Worth,New South Wales,42,4031.6500000000005
+1602,Shamus,44,Male,Retail,Mass Customer,New South Wales,68,4026.12
+2886,Lulu,62,Female,Missing,Mass Customer,New South Wales,39,4022.79
+3115,Rip,42,Male,Manufacturing,Mass Customer,Victoria,40,4020.91
+250,Kristofer,35,Male,Health,Mass Customer,New South Wales,53,4019.05
+2597,Carita,43,Female,Manufacturing,High Net Worth,Queensland,58,4017.66
+2410,Eugenia,49,Female,Manufacturing,Mass Customer,Victoria,75,4017.283048779069
+971,Sarge,35,Male,Manufacturing,High Net Worth,Victoria,11,4015.7799999999997
+2892,Paulie,58,Male,Manufacturing,Affluent Customer,New South Wales,59,4015.0200000000004
+827,Phillis,27,Female,Health,Affluent Customer,Queensland,90,4014.42
+1322,Kathye,22,Female,Financial Services,Mass Customer,Queensland,37,4008.84
+2279,Garrett,44,Male,Health,Mass Customer,New South Wales,42,4008.7599999999998
+3365,Karlens,0,Unknown,IT,Mass Customer,New South Wales,29,4003.36
+2397,Cassius,38,Male,Retail,Affluent Customer,New South Wales,33,4002.3199999999997
+3224,Darell,27,Female,Manufacturing,Affluent Customer,Victoria,67,4001.52
+697,Weston,37,Male,Entertainment,Mass Customer,Queensland,25,3996.6
+127,Merrili,49,Female,Financial Services,Mass Customer,Queensland,81,3993.71
+3198,Dur,26,Male,Manufacturing,Mass Customer,Victoria,66,3989.3499999999995
+2698,Nedi,49,Female,Health,High Net Worth,New South Wales,19,3987.65
+2609,Genvieve,59,Female,Financial Services,Mass Customer,New South Wales,17,3985.9030487790687
+556,Oralia,66,Female,Missing,Mass Customer,New South Wales,69,3985.03
+3135,Titus,61,Male,Financial Services,Mass Customer,New South Wales,83,3983.97
+2890,Nevile,64,Male,Missing,Affluent Customer,New South Wales,64,3978.89
+500,Lazar,31,Male,Retail,Affluent Customer,Victoria,19,3977.81
+2044,Leyla,25,Female,Health,Mass Customer,New South Wales,84,3977.45
+2831,Starlin,55,Female,Health,Mass Customer,New South Wales,16,3975.17
+3417,Deedee,50,Female,Health,Mass Customer,Victoria,91,3975.1400000000003
+1947,Gretta,60,Female,Telecommunications,Affluent Customer,New South Wales,66,3974.81
+345,Tish,34,Female,Health,High Net Worth,New South Wales,74,3971.46
