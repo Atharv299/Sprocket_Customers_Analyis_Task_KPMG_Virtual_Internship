@@ -1,1 +1,1 @@
-# Sprocket_Customers_Analyis_Task_KPMG_Virtual_Internship
+# Sprocket_Customers_Analyis_KPMG_Virtual_Internship
