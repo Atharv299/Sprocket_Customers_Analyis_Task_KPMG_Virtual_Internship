@@ -1,2 +1,2 @@
 # Sprocket_Customers_Analyis_KPMG_Virtual_Internship
-![Uploading Sprockets_Customers_Dashboard_page-0001.jpg…]()
+![Sprockets_Customers_Dashboard_page-0001](https://github.com/Atharv299/Sprocket_Customers_Analyis_Task_KPMG_Virtual_Internship/assets/72182365/e22e1b69-dcea-44a3-a80b-02206bc240c4)
