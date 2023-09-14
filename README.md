@@ -1,1 +1,2 @@
 # Sprocket_Customers_Analyis_KPMG_Virtual_Internship
+[Sprockets_Customers_Dashboard.pdf](https://github.com/Atharv299/Sprocket_Customers_Analyis_Task_KPMG_Virtual_Internship/files/12609092/Sprockets_Customers_Dashboard.pdf)
